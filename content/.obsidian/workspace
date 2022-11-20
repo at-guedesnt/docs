@@ -1,0 +1,83 @@
+{
+  "main": {
+    "id": "840e0daf8cc0d45d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ad35fa0e1baf940",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08b60a7677e2d1e3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d8e0286dfaa6a0df",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "d7535279400f2644",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#deepweb",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "fd795938a741cb20",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5f060e209cb3de59",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "Pandemia",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "2ad35fa0e1baf940",
+  "lastOpenFiles": [
+    "Localizações/Santo André/Santo André (estado).md",
+    "Série (Vale dos Sinos)/Primeira Temporada.md",
+    "Personagens/Série T1-T3/Diana.md",
+    "Mídia/Televisão/Emissoras de televisão/Trevision/Trevision LLC.md",
+    "Personagens/Série T1-T3/Paulo.md",
+    "Personagens/Série T1-T3/Léo.md",
+    "Virtual/Estufa CWB.md",
+    "Virtual/Stuffed.md",
+    "Personagens/Lobão.md",
+    "Personagens/Série T1-T3/Dona Saberina.md"
+  ]
+}
